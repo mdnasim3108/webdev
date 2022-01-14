@@ -1,0 +1,112 @@
+.heading{
+    letter-spacing : 2px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size:x-large;
+    text-align: center;
+    border-style: double;
+
+    
+}
+
+ .imgcover{
+    background-image:url("images/booksed.jpg") ;
+    background-repeat: no-repeat;
+    background-size: cover;   
+ }   
+
+ .heading h1{
+     color:whitesmoke;
+ }
+ .quotes ul p{
+     text-align: center;
+     font-size: xx-large;
+     font-weight: bold;
+     font-style: italic;
+     
+     
+ }
+ .bsheading{
+     background-image: url("images/bsheading.jpg");
+     border-style:groove ;
+     text-align: center;
+     font-size:x-large ;  
+ }
+ .bsproducts tr td img  {
+     border-style:solid; 
+ }
+
+ .products{
+     background-color:#FFBCD1;
+     
+ }
+ .bsproducts td :hover{
+     cursor:pointer;
+     border-color: chocolate;
+     transform: scale(1.1);
+     transition:transform .5s ease;
+ }
+ .comicheading{
+     border-style:solid;
+     text-align: center;
+     background-color: aquamarine;
+     font-size: x-large;
+ }
+ .comicbk{
+          background-image:url("images/comicbkbg.jpg");
+}
+.comicbk td img{
+    border-style: solid;
+    border-color: black;
+}
+.comicbk td :hover{
+     cursor:pointer;
+     border-color: chocolate;
+     transform: scale(1.1);
+     transition:transform .5s ease;
+
+}
+.fichead{
+    border-style:solid;
+    text-align: center;
+    background-color: aquamarine;
+    font-size: x-large;
+}
+.ficbk{
+    background-image:url("images/fictionbg.jpg");
+}
+.ficbk td img{
+    border-style: solid;
+    border-color: black;
+}
+.ficbk td :hover{
+     cursor:pointer;
+     border-color: chocolate;
+     transform: scale(1.1);
+     transition:transform .5s ease;
+}
+.end{
+    background-size:cover;
+    background-color: antiquewhite;
+    font-size: xx-large;
+    font-weight: bold;
+}
+.end td{
+    border-style:solid;
+}
+.end td:hover{
+    cursor:pointer;
+    color:violet;
+    transform: scale(1.1);
+    transition:transform .5s ease;
+}
+
+ 
+    
+ 
+
+
+
+
+
+
+
